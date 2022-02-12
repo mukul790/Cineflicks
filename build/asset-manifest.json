@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cineflicks/static/css/main.4a69f4d7.chunk.css",
+    "main.js": "/Cineflicks/static/js/main.3fb09b7e.chunk.js",
+    "main.js.map": "/Cineflicks/static/js/main.3fb09b7e.chunk.js.map",
+    "runtime-main.js": "/Cineflicks/static/js/runtime-main.936da416.js",
+    "runtime-main.js.map": "/Cineflicks/static/js/runtime-main.936da416.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/Cineflicks/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.b67423a7.chunk.js": "/Cineflicks/static/js/2.b67423a7.chunk.js",
+    "static/js/2.b67423a7.chunk.js.map": "/Cineflicks/static/js/2.b67423a7.chunk.js.map",
+    "index.html": "/Cineflicks/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/Cineflicks/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.4a69f4d7.chunk.css.map": "/Cineflicks/static/css/main.4a69f4d7.chunk.css.map",
+    "static/js/2.b67423a7.chunk.js.LICENSE.txt": "/Cineflicks/static/js/2.b67423a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.936da416.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.b67423a7.chunk.js",
+    "static/css/main.4a69f4d7.chunk.css",
+    "static/js/main.3fb09b7e.chunk.js"
+  ]
+}
